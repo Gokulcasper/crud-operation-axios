@@ -2,7 +2,7 @@ import React from 'react'
 
 const Read = () => {
   return (
-    <div>Read</div>
+    <div>Read Operation</div>
   )
 }
 
